@@ -1,6 +1,3 @@
-# Synopsis
-操你妈[novnc/websockify](https://github.com/novnc/websockify)，我tm为了运行这个垃圾软件给我电脑装了一堆软件，本来看到python就烦。照着教程运行还tm不行这下更反感了。
-
 # How to? 如何使用？
 get my All in one NoVNC from [here](https://github.com/nifanfa/NoVNC/releases)|点击[这里](https://github.com/nifanfa/NoVNC/releases)下载我的最新版本的NoVNC  
 unzip the release|解压最新版本  
